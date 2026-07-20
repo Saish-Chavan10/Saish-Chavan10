@@ -1,16 +1,28 @@
-## Hi there 👋
+👨‍💻 About Me
 
-<!--
-**Saish-Chavan10/Saish-Chavan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a results-driven IT professional bridging the gap between infrastructure and artificial intelligence. Backed by hands-on experience in DevOps and advanced expertise in AI/ML, I specialize in building, optimizing, and deploying scalable Generative AI applications, RAG architectures, and Multi-Agent Systems.
 
-Here are some ideas to get you started:
+🚀 Currently building enterprise-grade AI Agents and Local LLM applications (Ollama, Qwen).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Deeply experienced in DevOps (AWS, CI/CD, Docker, Kubernetes) ensuring AI deployments are robust and scalable.
+
+🤝 Open to collaborating on Open-Source AI tools, LangChain workflows, and MLOps pipelines.
+
+📫 How to reach me: saishchavan154@gmail.com
+
+
+🚀 Featured Projects
+
+🩺 MedBot: RAG Medical AI Assistant
+
+An end-to-end medical chatbot querying a 4,500+ page encyclopedia using local LLM inference (Qwen). Features semantic search with exact page citations and zero external API dependencies.
+
+Python LangChain Ollama Pinecone Next.js Docker
+
+🤖 Multi-Agent Research System
+
+An automated orchestration pipeline using specialized AI agents (Search, Reader, Writer, Critic) to scrape web data, verify accuracy, and synthesize detailed, hallucination-free reports.
+
+Python LangChain LCEL Agents Streamlit
+
+🤝 Connect with Me
