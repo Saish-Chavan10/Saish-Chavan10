@@ -120,6 +120,7 @@ Uses a 4,500+ page medical encyclopedia, semantic search, Pinecone, and local Qw
 📌 Page Citations
 ```
 🔗 GitHub Repo → https://github.com/Saish-Chavan10/MedBot-RAG-Assistant
+
 🔗 View Project →
 
 
@@ -156,9 +157,12 @@ APPROVED   NEEDS WORK
        🖥️ Streamlit UI
   ```
 🔗 GitHub Repo → https://github.com/Saish-Chavan10/Multi-Agent-Research-System
+
 🔗 View Project →
 
 ## 📫 Connect With Me
 📧 Email: saishchavan154@gmail.com
-💻 GitHub: Saish-Chavan10
+
+💻 LinkedIn: [Saish-Chavan10](https://www.linkedin.com/in/saish-chavan/)
+
 ⭐ If you find my projects interesting, feel free to explore the repositories and connect with me!
