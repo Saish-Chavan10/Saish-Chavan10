@@ -121,7 +121,7 @@ Uses a 4,500+ page medical encyclopedia, semantic search, Pinecone, and local Qw
 ```
 🔗 GitHub Repo → https://github.com/Saish-Chavan10/MedBot-RAG-Assistant
 
-🔗 View Project →
+🔗 View Project → https://cytfru4sqo3ug74ygxzjunv4ve0xdhao.lambda-url.ap-south-1.on.aws/
 
 
 ## 🤖 Multi-Agent Research System
